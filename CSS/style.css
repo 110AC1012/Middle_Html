@@ -1,0 +1,271 @@
+hr {
+    height: 1em;
+    width: 1px;
+    color: #000;
+    background-color: #000;
+    border-width: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.col {
+    height: 1px;
+    width: 70px;
+    color: #000;
+    background-color: #000;
+    border-width: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+dt {
+    margin-bottom: 10px;
+}
+
+.BackGround {
+    width: 1200px;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #5A00FF;
+}
+
+.Head {
+    width: 1100px;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    background-color: #FF8400;
+}
+
+.BodyArea {
+    width: 1100px;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    background-color: #188118;
+}
+
+.ToolArea {
+    width: 200px;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    background-color: #f5f500;
+    margin-left: 10px;
+}
+
+.LeftTool {
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(166, 0, 255);
+    margin-left: 5px;
+}
+
+.RightTool {
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(166, 0, 255);
+    margin-left: 10px;
+}
+
+.PicNewsArea {
+    width: 500px;
+    height: 400px;
+    background-color: #f5f500;
+    margin-left: 10px;
+}
+
+.ChooseArea {
+    height: 50px;
+    background-color: #888;
+}
+
+.ChooseBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #880;
+}
+
+.ChooseBtn {
+    width: 70px;
+    height: 40px;
+    background-color: aqua;
+}
+
+.PicAndUrl {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    background-color: blue;
+}
+
+.Pic {
+    width: 280px;
+    height: 280px;
+    background-color: #f5f500;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.StarBurst {
+    width: 260px;
+    height: 180px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.Bonk {
+    width: 260px;
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.Url {
+    width: 220px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f500;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.GoogleTV {
+    width: 360px;
+    height: 200px;
+    background: #f5f500;
+    margin-left: 10px;
+}
+
+.FuncBar {
+    display: flex;
+    flex-direction: row;
+}
+
+.FuncArray {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.SearchArray {
+    display: flex;
+    align-items: center;
+}
+
+.SearchBar {
+    width: 500px;
+    height: 45px;
+}
+
+.SearchBtn {
+    width: 45px;
+    height: 45px;
+}
+
+.AccountArray {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.BlackWd {
+    color: black;
+}
+
+.fontsize10px {
+    font-size: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.LoginBtn {
+    width: 60px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+
+.Hotspot {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.PicSize40px {
+    width: 40px;
+    height: 40px;
+}
+
+.Bell {
+    width: 28px;
+    height: 28px;
+    margin-left: 10px;
+}
+
+.LineHeight70 {
+    line-height: 70%;
+}
+
+.jus {
+    display: flex;
+    justify-content: center;
+}
+
+.ali {
+    display: flex;
+    align-items: center;
+}
+
+.SpaBet {
+    display: flex;
+    justify-content: space-between;
+}
+
+.FlexRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.LeftRight5 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.LeftRight25 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.UpDown5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Flex-Around {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Body {
+    width: 1em;
+    height: 600px;
+    background-color: #888;
+}
